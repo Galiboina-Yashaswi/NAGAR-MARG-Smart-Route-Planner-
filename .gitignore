@@ -1,0 +1,28 @@
+# Compiled Binary Executables & Objects
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.so
+
+# Python cache & virtual environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env/
+
+# Scratch & Test Artifacts
+scratch/
+test_*.py
+verify_*.py
+verify_*.js
+write_html.py
+
+# Editor & OS settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
